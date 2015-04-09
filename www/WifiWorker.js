@@ -228,6 +228,8 @@ Wifi.prototype = {
 Wifi.AUTH_TYPE = {
     NONE: 'NONE',
     WPA: 'WPA-PSK',
+    WEP:  'WEP',
+    WPS:  'WPS',
     WPA2: 'WPA2-PSK'
 };
 
